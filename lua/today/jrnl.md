@@ -1,8 +1,14 @@
 # Date
 
+## References
+
 ## To do
 
 - [ ] 
+
+## Analysis
+
+## Tests
 
 ## Thoughts
 
