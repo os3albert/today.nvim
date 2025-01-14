@@ -76,6 +76,15 @@ If no custom local_root is specified:
 * Uses a default jrnl.md template
 * Organizes notes in a daily/YYYY/MM/YYYY-MM-DD.md structure
 
+## How to Use the Today File
+* `Reference`: Where you store information for tasks you need to complete.
+* `To Do`: Tasks you need or want to accomplish using the gathered information.
+* `Analysis` : A section to summarize information collected while performing tasks.
+* `Tests`: A place to document what you want to test related to your work.
+* `Thoughts`: A space for notes about your completed tasks.
+* `Report`: An overview of your daily activities. The `Verdict X/4` refers to the four questions you answer in this section.
+> Note: You can also use this template to monitor your daily work activities without including the Report and its questions. In that case, you can adjust your Verdict to Verdict X/5.
+
 ## LICENSE
 
 MIT
